@@ -16,14 +16,14 @@ This project implements a complete NFT auction system with the following feature
 
 The project consists of two main modules:
 
-### NFT Module (`nft.move`)
+### NFT Module [nft.move](https://github.com/fethallaheth/Sui-Nft-Auction/blob/main/sources/nft.move)
 Handles NFT-related functionality:
 - NFT creation with metadata
 - NFT transfers
 - NFT burning
 - Event tracking for NFT operations
 
-### Auction Module (`nftauction.move`)
+### Auction Module [nftAuction.move](https://github.com/fethallaheth/Sui-Nft-Auction/blob/main/sources/nftauction.move)
 Manages the auction system:
 - Auction creation and management
 - Bidding mechanism
@@ -58,7 +58,7 @@ To build and test the NFT Auction Smart Contract, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/fethallaheth/Sui-Nft-Auction.git>
    cd nftAuction
    ```
 
